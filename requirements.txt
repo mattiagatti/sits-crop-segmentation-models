@@ -1,0 +1,12 @@
+einops
+fvcore
+kaggle
+matplotlib
+monai==1.5.2
+numpy
+Pillow
+rasterio
+scikit-learn
+timm
+torch==2.4.1
+tqdm
